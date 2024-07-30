@@ -1,5 +1,5 @@
 .container {
-    height: 100vh;
+    height: 80vh;
     width: 100%;
 }
 
@@ -14,4 +14,9 @@
 
 .sidenav i {
     padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
 }
